@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 2e791391-3481-0a47-5c04-2bb41aa614b9
 resourcetype: Document
 title: Guess the Sperm Answer Key
 uid: 2060acbc-8274-f1f3-310c-d0df91d98a13

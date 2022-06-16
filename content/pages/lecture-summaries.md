@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides summaries of the weekly lecture sessions and associated
+  materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Introduction
 
 {{< anchor "Week_1" >}}{{< /anchor >}}In this session, we will introduce ourselves and review the course syllabus and requirements. In addition, we will introduce and discuss some important components of the scientific writing and review process, including the Pubmed literature database and peer review, which are important for completing the midterm and final assignments. Finally, we will introduce sperm morphology and diversity by playing a rousing game of "guess the sperm."
 
-[Guess the Sperm (PDF)]({{< baseurl >}}/resources/mit7_345f14_guessthesperm)
+{{% resource_link 05ffcbc3-4144-bb2f-1369-8f29e27b56a3 "Guess the Sperm (PDF)" %}}
 
-[Guess the Sperm Answer Key (PDF)]({{< baseurl >}}/resources/mit7_345f14_answerkey)
+{{% resource_link 2060acbc-8274-f1f3-310c-d0df91d98a13 "Guess the Sperm Answer Key (PDF)" %}}
 
 
 {{< tdclose >}}

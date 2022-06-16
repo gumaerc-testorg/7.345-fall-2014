@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  weekly questions, the midterm written assignments, and final oral presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

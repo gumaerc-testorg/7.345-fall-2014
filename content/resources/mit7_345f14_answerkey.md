@@ -6,6 +6,7 @@ file: /courses/7-345-the-science-of-sperm-fall-2014/2060acbc8274f1f3310cd0df91d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Guess the Sperm Answer Key
 uid: 2060acbc-8274-f1f3-310c-d0df91d98a13
 ---
 Solutions to an exercise that challenges students to guess species from images of sperm.
-

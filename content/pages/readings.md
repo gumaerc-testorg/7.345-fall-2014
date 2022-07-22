@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by week and includes links
+  to lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 394bcc97-e80d-f540-013b-5dd5c4da85f0
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_1)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No Readings
 
 Epidemiology of Sperm Counts
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_2)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Saidi, J. A., D. T. Chang, et al. "[Declining Sperm Counts in the United States?
 
 Spermatogenic Cycle
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_3)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Franca, L. R., T. Ogawa, et al. "[Germ Cell Genotype Controls Cell Cycle During 
 
 Male-biased Mutation Rates
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_4)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Venn, O., I. Turner, et al. "[Strong Male Bias Drives Germline Mutation in Chimp
 
 Germ Line Selection
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_5)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Goriely, A., G. McVean, et al. "[Gain-of-function Amino Acid Substitutions Drive
 
 Meiotic Recombination
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_6)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Grey, C., P. Barthes, et al. "[Mouse PRDM9 DNA-binding Specificity Determines Si
 
 Field Trip to the Whitehead Institute
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_7)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ No Assigned Readings
 
 Chromosome Segregation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_8)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Close, R., J. Bell, et al. "[Spermatogenesis and Synaptonemal Complexes of Hybri
 
 Review Midterms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_9)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -227,7 +232,7 @@ No Assigned Readings
 
 Transcription and Chromatin State During Spermatogenesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_10)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -251,7 +256,7 @@ Soumillon, M., A. Necsulea, et al. "[Cellular Source and Mechanisms of High Tran
 
 Adaptive Evolution of Sperm Proteins
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_11)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -275,7 +280,7 @@ Torgerson, D. G., R. J. Kulathinal, et al. "[Mammalian Sperm Proteins are Rapidl
 
 Sperm Cooperation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_12)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
@@ -299,7 +304,7 @@ Fisher, H., and H. Hoekstra. "[Competition Drives Cooperation Among Closely Rela
 
 Sperm Competition
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_13)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_13" %}}
 
 
 {{< tdclose >}}
@@ -323,7 +328,7 @@ Pitnick, S., G. Miller, et al. "[Males' Evolutionary Responses to Experimental R
 
 Student Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_14)
+{{% resource_link 2e791391-3481-0a47-5c04-2bb41aa614b9 "See the Lecture Summary" "#Week_14" %}}
 
 
 {{< tdclose >}}

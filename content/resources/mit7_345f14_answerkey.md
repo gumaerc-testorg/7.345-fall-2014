@@ -2,7 +2,8 @@
 content_type: resource
 description: Solutions to an exercise that challenges students to guess species from
   images of sperm.
-file: /courses/7-345-the-science-of-sperm-fall-2014/2060acbc8274f1f3310cd0df91d98a13_MIT7_345F14_answerkey.pdf
+file: /ol-ocw-studio-app/courses/7-345-the-science-of-sperm-fall-2014/2060acbc8274f1f3310cd0df91d98a13_MIT7_345F14_answerkey.pdf
+file_size: 65130
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

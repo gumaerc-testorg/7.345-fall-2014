@@ -113,7 +113,7 @@ Meiotic Recombination
 Field trip to the Whitehead Institute
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Week_7" >}}{{< /anchor >}}Class will meet on the fourth floor of the [Whitehead Institute](http://wi.mit.edu/), where we will prepare and examine sperm samples first-hand. We will examine slides containing fixed sperm from several species, compare their morphologies, and discuss how differences in morphology might relate to sperm function. Then we will prepare and stain slides of our own with live mouse sperm samples.
+{{< anchor "Week_7" >}}{{< /anchor >}}Class will meet on the fourth floor of the {{% resource_link "63152962-c4d3-4d70-b2f7-be44c07f8ec1" "Whitehead Institute" %}}, where we will prepare and examine sperm samples first-hand. We will examine slides containing fixed sperm from several species, compare their morphologies, and discuss how differences in morphology might relate to sperm function. Then we will prepare and stain slides of our own with live mouse sperm samples.
 {{< tdclose >}}
 
 {{< trclose >}}

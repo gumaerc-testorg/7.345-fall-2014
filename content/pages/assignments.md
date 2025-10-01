@@ -19,7 +19,7 @@ Midterm Written Assignment (Due Week 7; Reviewed in Class on Week 9)
 
 Write a short summary and critique of the distributed paper:
 
-Stoeckius, M., D. Grun, and N. Rajewsky. "[Paternal RNA contributions in the Caenorhabditis elegans zygote](http://emboj.embopress.org/content/33/16/1740)." _EMBO Journal_ 33(2014): 1740–50.
+Stoeckius, M., D. Grun, and N. Rajewsky. "{{% resource_link "e985ee13-4041-4a2d-a61f-ac0f232f6cda" "Paternal RNA contributions in the Caenorhabditis elegans zygote" %}}." _EMBO Journal_ 33(2014): 1740–50.
 
 Include the following components:
 
